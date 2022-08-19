@@ -1,0 +1,14 @@
+body {
+    background: black !important;
+    font-family: Roboto, sans-serif;
+    font-size: .90rem;
+}
+
+.text-grayish {
+    color: darkgrey;
+}
+
+a {
+    text-decoration: inherit;
+    color: aliceblue;
+}
